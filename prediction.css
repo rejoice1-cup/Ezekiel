@@ -1,0 +1,66 @@
+body {
+    background-image: url('file:///storage/emulated/0/prediction/b40227e090cccdc16ea57db7c31f3e7e.jpg');
+    background-size: cover;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header{
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            padding: 20px;
+            width: 80%;
+            margin: auto;
+        }
+
+        .container{
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            padding: 10px;
+            align-items: center;
+        }
+
+        .match-details {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            text-align: right;
+        }
+
+        .match-details h3 {
+            margin: 5px 0;
+            font-size: 18px;
+        }
+
+        .match-details p {
+            font-size: 16px;
+            color: #666;
+        }
+
+        .match-prediction {
+            font-size: 18px;
+            font-weight: bold;
+            color: #28a745;
+        }
+
+        
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+        
+h4{
+    color: green;
+}
